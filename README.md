@@ -1,1 +1,1 @@
-# samfm
+Blog page for DJ web presence
